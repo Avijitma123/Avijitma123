@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avijit Dey</h1>
 <h3 align="center">Machine learning researcher</h3>
-<img align="right alt="Computer-Vision" width="400" src="https://analyticsindiamag.com/are-visual-transformers-better-than-convolutional-neural-networks/" >
+<img align="right alt="Computer-Vision" width="400" src="http://jalammar.github.io/images/t/transformer_decoding_2.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijitma123&label=Profile%20views&color=0e75b6&style=flat" alt="avijitma123" /> </p>
 
 
